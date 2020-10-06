@@ -1,0 +1,448 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "uniqName": "villareal",
+        "title": "villarea Jersey",
+        "description": "Sphynx Tie Dye Grey",
+        "availableSizes": ["L", "XL", "XXL"],
+        "price": 87,
+        "isFreeShipping": true
+      },
+      {
+        "id": 2,
+        "uniqName": "villareal1",
+        "title": "villarea Jersey",
+        "description": "Sphynx Tie Dye Grey",
+        "availableSizes": ["S", "M"],
+        "price": 108,
+        "isFreeShipping": true
+      },
+      {
+        "id": 3,
+        "uniqName": "tothenham",
+        "title": "tothenham Jersey",
+        "description": "Danger Knife Grey",
+        "availableSizes": ["S", "M", "L"],
+        "price": 105,
+        "isFreeShipping": true
+      },
+      {
+        "id": 4,
+        "uniqName": "tothenham1",
+        "title": "tothenham Jersey",
+        "description": "Danger Knife Grey",
+        "availableSizes": ["X"],
+        "price": 96,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 5,
+        "uniqName": "bayern",
+        "title": "Bayern Jersey",
+        "description": "White DGK Script",
+        "availableSizes": [ "S", "L"],
+        "price": 270,
+        "isFreeShipping": true
+      },
+      {
+        "id": 6,
+        "uniqName": "bayern1",
+        "title": "Bayern Jersey",
+        "description": "White DGK Script",
+        "availableSizes": ["X", "M"],
+        "price": 258,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 7,
+        "uniqName": "inter",
+        "title": " Inter Jersey",
+        "description": "Born On The Streets",
+        "availableSizes": ["X"],
+        "price": 49,
+        "isFreeShipping": false
+      },
+      {
+        "id": 8,
+        "uniqName": "inter1",
+        "title": " Inter Jersey",
+        "description": "Born On The Streets",
+        "availableSizes": ["XL"],
+        "price": 85,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 9,
+        "uniqName": "dortmund",
+        "title": "Dortmund Jersey",
+        "description": "Tso 3D Short Sleeve",
+        "availableSizes": ["X", "L", "XL"],
+        "price": 75,
+        "isFreeShipping": false
+      },
+      {
+        "id": 10,
+        "uniqName": "dortmund1",
+        "title": "Dortmund Jersey",
+        "description": "Tso 3D Short Sleeve",
+        "availableSizes": ["S", "M", "XXL"],
+        "price": 95,
+        "isFreeShipping": false
+      },
+  
+  
+      {
+        "id": 11,
+        "uniqName": "liverpool",
+        "title": "Liverpool Jersey",
+        "description": "Man Tie Dye Cinza Grey",
+        "availableSizes": ["XL"],
+        "price": 170,
+        "isFreeShipping": false
+      },
+      {
+        "id": 12,
+        "uniqName": "liverpool1",
+        "title": "Parma Jersey",
+        "description": "Man Tie Dye Cinza Grey",
+        "availableSizes": ["XXL"],
+        "price": 177.9,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 13,
+        "uniqName": "psg",
+        "title": "PSG Jersey",
+        "description": "1977 Infantil",
+        "availableSizes": ["L"],
+        "style": "Preto com listras brancas",
+        "price": 250,
+        "isFreeShipping": true
+      },
+      {
+        "id": 14,
+        "uniqName": "psg1",
+        "title": "PSG Jersey",
+        "description": "1977 Infantil",
+        "availableSizes": ["S"],
+        "style": "Preto com listras brancas",
+        "price": 255,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 15,
+        "uniqName": "lyon",
+        "title": "Lyon Jersey",
+        "description": "",
+        "availableSizes": ["XL","L"],
+        "style": "Azul escuro",
+        "price": 187,
+        "isFreeShipping": false
+      },
+      {
+        "id": 16,
+        "uniqName": "lyon1",
+        "title": "Lyon Jersey",
+        "description": "",
+        "availableSizes": ["S","M"],
+        "style": "Azul escuro",
+        "price": 175,
+        "isFreeShipping": false
+      },
+      {
+        "id": 17,
+        "uniqName": "mancity",
+        "title": "Man City Jersey",
+        "description": "",
+        "availableSizes": ["L", "XL","XXL"],
+        "price": 134,
+        "isFreeShipping": true
+      },
+      {
+        "id": 18,
+        "uniqName": "mancity1",
+        "title": "Man City Jersey",
+        "description": "",
+        "availableSizes": ["X","S", "M"],
+        "price": 146,
+        "isFreeShipping": true
+      },
+      {
+        "id": 19,
+        "uniqName": "westham",
+        "title": "westham Jersey",
+        "description": "",
+        "availableSizes": ["XL", "XXL"],
+        "price": 130,
+        "isFreeShipping": true
+      },
+      {
+        "id": 20,
+        "uniqName": "westham1",
+        "title": "westham Jersey",
+        "description": "",
+        "availableSizes": ["L", "M"],
+        "price": 120,
+        "isFreeShipping": true
+      },  
+      {
+        "id": 21,
+        "uniqName": "leipzig",
+        "title": "lipzig Jersey",
+        "description": "",
+        "availableSizes": ["S", "L","XL"],
+        "price": 100,
+        "isFreeShipping": true
+      },
+      {
+        "id": 22,
+        "uniqName": "leipzig1",
+        "title": "lipzig Jersey",
+        "description": "",
+        "availableSizes": ["X", "M","XXL"],
+        "price": 82,
+        "isFreeShipping": true
+      },
+      {
+        "id": 23,
+        "uniqName": "roman",
+        "title": "Roman Jersey",
+        "description": "",
+        "availableSizes": ["L", "XL","XXL"],
+        "price": 265,
+        "isFreeShipping": true
+      },
+      {
+        "id": 24,
+        "uniqName": "roman1",
+        "title": "Roman Jersey",
+        "description": "",
+        "availableSizes": ["M", "X"],
+        "price": 207,
+        "isFreeShipping": true
+      },
+      {
+        "id": 25,
+        "uniqName": "manu",
+        "title": "manu Jersey",
+        "description": "",
+        "availableSizes": ["S", "L"],
+        "price": 121,
+        "isFreeShipping": true
+      },
+      {
+        "id": 26,
+        "uniqName": "manu1",
+        "title": "manu Jersey",
+        "description": "",
+        "availableSizes": ["XL", "XXL"],
+        "price": 125,
+        "isFreeShipping": true
+      },
+      {
+        "id": 27,
+        "uniqName": "juventus",
+        "title": "juventus Jersey",
+        "description": "",
+        "availableSizes": ["L", "XXL"],
+        "price": 200,
+        "isFreeShipping": true
+      },
+      {
+        "id": 28,
+        "uniqName": "juventus1",
+        "title": "juventus Jersey",
+        "description": "",
+        "availableSizes": ["M", "XL"],
+        "price": 182,
+        "isFreeShipping": true
+      },
+      {
+        "id": 29,
+        "uniqName": "arsenal",
+        "title": "Arsenal Jersey",
+        "description": "",
+        "availableSizes": ["S", "XL"],
+        "price": 125,
+        "isFreeShipping": true
+      },
+      {
+        "id": 30,
+        "uniqName": "arsenal1",
+        "title": "Arsenal Jersey",
+        "description": "",
+        "availableSizes": ["L","M"],
+        "price": 130,
+        "isFreeShipping": true
+      },
+      {
+        "id": 31,
+        "uniqName": "monaco",
+        "title": "Monaco Jersey",
+        "description": "",
+        "availableSizes": ["XL"],
+        "price": 142,
+        "isFreeShipping": true
+      },
+      {
+        "id": 32,
+        "uniqName": "monaco1",
+        "title": "Monaco Jersey",
+        "description": "",
+        "availableSizes": ["S"],
+        "price": 148,
+        "isFreeShipping": true
+      },
+      {
+        "id": 33,
+        "uniqName": "napoli",
+        "title": "Napoli Jersey",
+        "description": "",
+        "availableSizes": ["XXL","M" ],
+        "price": 165,
+        "isFreeShipping": true
+      },
+      {
+        "id": 34,
+        "uniqName": "napoli1",
+        "title": "Napoli Jersey",
+        "description": "",
+        "availableSizes": ["L", "XL"],
+        "price": 179,
+        "isFreeShipping": true
+      },
+      {
+        "id": 35,
+        "uniqName": "lazio",
+        "title": "Lazio Jersey",
+        "description": "",
+        "availableSizes": ["L", "XL"],
+        "price": 111,
+        "isFreeShipping": true
+      },
+      {
+        "id": 36,
+        "uniqName": "lazio1",
+        "title": "Lazio Jersey",
+        "description": "",
+        "availableSizes": ["X", "S","M"],
+        "price": 106,
+        "isFreeShipping": true
+      },
+      {
+        "id": 37,
+        "uniqName": "leverkusen",
+        "title": "Leverkusen Jersey",
+        "description": "",
+        "availableSizes": ["L", "XL","M"],
+        "price": 162,
+        "isFreeShipping": true
+      },
+      {
+        "id": 38,
+        "uniqName": "leverkusen1",
+        "title": "Leverkusen Jersey",
+        "description": "",
+        "availableSizes": ["X","XXL"],
+        "price": 166,
+        "isFreeShipping": true
+      },
+      {
+        "id": 39,
+        "uniqName": "madrid",
+        "title": "Realmadrid Jersey",
+        "description": "",
+        "availableSizes": ["L","M"],
+        "price": 205,
+        "isFreeShipping": true
+      },
+      {
+        "id": 40,
+        "uniqName": "madrid1",
+        "title": "Realmadrid Jersey",
+        "description": "",
+        "availableSizes": ["XL","S"],
+        "price": 189,
+        "isFreeShipping": true
+      },
+      {
+        "id": 41,
+        "uniqName": "barca",
+        "title": "barca Jersey",
+        "description": "",
+        "availableSizes": ["L"],
+        "price": 160,
+        "isFreeShipping": true
+      },
+      {
+        "id": 42,
+        "uniqName": "barca1",
+        "title": "barca Jersey",
+        "description": "",
+        "availableSizes": ["X","S"],
+        "price": 132,
+        "isFreeShipping": true
+      },
+      {
+        "id": 43,
+        "uniqName": "chelsea",
+        "title": "Chelsea Jersey",
+        "description": "",
+        "availableSizes": ["S", "XL"],
+        "price": 140,
+        "isFreeShipping": true
+      },
+      {
+        "id": 44,
+        "uniqName": "chelsea1",
+        "title": "Chelsea Jersey",
+        "description": "",
+        "availableSizes": ["M", "L"],
+        "price": 148,
+        "isFreeShipping": true
+      },
+      {
+        "id": 45,
+        "uniqName": "sevilla",
+        "title": "Sevilla Jersey",
+        "description": "",
+        "availableSizes": ["L", "XL","M"],
+        "price": 110,
+        "isFreeShipping": true
+      },
+      {
+        "id": 46,
+        "uniqName": "sevilla1",
+        "title": "Sevilla Jersey",
+        "description": "",
+        "availableSizes": ["S", "XXL"],
+        "price": 120,
+        "isFreeShipping": true
+      },
+      {
+        "id": 47,
+        "uniqName": "marsel",
+        "title": "Marseille Jersey",
+        "description": "",
+        "availableSizes": ["L","M"],
+        "price": 146,
+        "isFreeShipping": true
+      },
+      {
+        "id": 48,
+        "uniqName": "marsel1",
+        "title": "Marseille Jersey",
+        "description": "",
+        "availableSizes": ["S","XL"],
+        "price": 160,
+        "isFreeShipping": true
+      }                                                                                                                         
+    ]
+  }
+  

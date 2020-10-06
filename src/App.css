@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+.container{
+  height: auto;
+}
+#mybadge{
+  outline: none;
+  border-radius: 10px;
+  border-color: dodgerblue;
+  position:fixed;
+  top: 70px;
+  right: 0;
+  font-size: 15px;
+  z-index: 1;
+}

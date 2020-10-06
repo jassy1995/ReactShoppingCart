@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Arial','Droid Sans', 'Helvetica Neue',
+    sans-serif;
+   
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* .input-icon i{
+  position: absolute;
+}
+.input-icon {
+width: 100%;
+margin-bottom: 10px;
+margin-top: 10px
+
+}
+.icon{
+padding: 10px;
+color: grey;
+min-width: 50px;
+text-align: center
+}
+.input-field {
+width: 30vw;
+padding: 10px;
+text-align: center;
+border-radius: 40px;
+outline: none;
+
+}
+.input-field:focus{
+outline:none;
+border-color: grey;
+}
+.card{
+align-self: center;
+margin-top: 5%;
+margin-bottom: 5%;
+border: none
+}
+.w3-animate-zoom{
+  margin-left: 17%
+}
+.fa .fa-trash .text-danger{
+  font-size: 30%
+}
+.w3-bar .w3-dark-grey .w3-top{
+margin-bottom: 100%
+} */
+
+
+
